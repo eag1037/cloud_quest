@@ -1,3 +1,6 @@
+<img width="1722" alt="Screen Shot 2023-02-03 at 5 00 18 PM" src="https://user-images.githubusercontent.com/124124655/216728864-605aa868-c32e-42e0-950c-082480d07cd4.png">
+
+
 This assessment was really a breathe of fresh air  compared to the leetcode I've been doing on other interviews and the leetcode studying.
 
  This felt like I was being asked to actually demonstrate some of the things I know and it was by far more enjoyable.
@@ -15,15 +18,18 @@ Well there's a number of short comings - I wanted to at minimum demonstrate comp
 The docs would have been a complete how to - start to finish
 
 - Terraform - For agility I ended up hardcoding a few things just to build my ec2 instance and VPC's quickly. I also brought the loadbalancer up and configured via the AWS console. As an improvement to the project i'd do the following;
+
         1. Terraform everything from IAM, VPC, Loadbalancers, EC2 and probably ECS (more on that).
         2. In the state my Terraform is in, it's not maintainable I would have used Terragrunt to keep all my backend configs dry. Removing all the hardcoding and being able to experiment without disturbing my main enviorment.
         3. Used Terragrunt to work with multiple moudles.
 
 - Cloud Agnostic - This has the ability to be cloud agnostic with the use of modules and multiple providers. With more time I woulda stood this up in GCP and done things a bit differently with GCP.
+
         1. In GCP I would have brought up a GCP project. 
         2. Built modules for both GCP and AWS.
 
 - Fully automated - This is the end goal have this deployment be fully automated start to finish. To achieve this I would have;
+
         1. Define all my variables in a `variables.tf` for each component.
         2. Used CloudDeploy to launch the application using ECS.
 
