@@ -35,6 +35,8 @@ The docs would have been a complete how to - start to finish
 
 - Security - The SecOps part of me cried a bit during this project. I took alot of liberties just to achieve the goal. In a production enviornment I'd create an IAM user with specifically defined permissions and not just give it full admin permissions. I would have secured my routes as well I left my EC2 instance open to the internet as well as the web application. 
 
-I find myself in a weird place where I'm doing multiple jobs since we had a 2/3 reduction in force at my current employer, while also completing several take home assessments. I wish I had more time to flesh everything out a bit more, but this exercise did help aleviate alot of the imposter syndrome I was carrying into the intial interview. I did a bit of everything just to demonstrate that I have the core competency needed for the role. There's always room for improvement, and that's the exciting part.
+I find myself in a weird place where I'm doing multiple jobs since we had a 2/3 reduction in force at my current employer, while also completing several take home assessments. I wish I had more time to flesh everything out a bit more, but this exercise did help aleviate alot of the imposter syndrome I was carrying into the intial interview. I did a bit of everything just to demonstrate that I have the core competency needed for the role. 
+
+There's always room for improvement, that's the exciting part.
 
 
