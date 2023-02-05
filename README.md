@@ -1,9 +1,9 @@
 <img width="1722" alt="Screen Shot 2023-02-03 at 5 00 18 PM" src="https://user-images.githubusercontent.com/124124655/216728864-605aa868-c32e-42e0-950c-082480d07cd4.png">
 
 
-This assessment was really a breathe of fresh air  compared to the leetcode I've been doing on other interviews and the leetcode studying.
+This assessment was really a breathe of fresh air.
 
- This felt like I was being asked to actually demonstrate some of the things I know and it was by far more enjoyable.
+ I was being asked to actually demonstrate some of the things I know and it was by far one of the more enjoyable assesments I've done.
 
 If you follow the `Gettingstarted.md` you'll see a list of instructions you'll need to follow before you can actually jump into a cloud enviornment and begin writing any terraform. These are the bare minimum requirements outside understanding networking concepts, docker, IaC.
 
