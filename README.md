@@ -5,13 +5,13 @@ This assessment was really a breathe of fresh air.
 
  I was being asked to actually demonstrate some of the things I know and it was by far one of the more enjoyable assesments I've done.
 
-If you follow the `Gettingstarted.md` you'll see a list of instructions you'll need to follow before you can actually jump into a cloud enviornment and begin writing any terraform. These are the bare minimum requirements outside understanding networking concepts, docker, IaC.
+If you follow the `Gettingstarted.md` you'll see a list of instructions you'll need to follow before you can actually jump into a cloud enviornment and begin writing any terraform. These are the bare minimum requirements outside understanding networking concepts, docker, and IaC.
 
 Given more time, I would improve... 
 
 Well there's a number of short comings - I wanted to at minimum demonstrate compedency in a few areas.
 
-- Documentaion - I often find that alot of tech debt is incurred due to lack of proper documentation. I used to hate writing docs, but after seeing how much my team appreciated good docs and how quickly they were able to work based off of great documentation. It became a stable that my team helped push to the rest of the organization. With more time I would have done the following.
+- Documentation - I often find that alot of tech debt is incurred due to lack of proper documentation. I used to hate writing docs, but after seeing how much my team appreciated good docs and how quickly they were able to work based off of great documentation. It became a stable that my team helped push to the rest of the organization. With more time I would have done the following.
 
         1. Used something like Scribe or Notion to document a complete step by step start to finish with screenshots.
         2. Documented the use of Terraform and the building of the Docker Application.
