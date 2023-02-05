@@ -17,7 +17,7 @@ Well there's a number of short comings - I wanted to at minimum demonstrate comp
         2. Documented the use of Terraform and the building of the Docker Application.
 The docs would have been a complete how to - start to finish
 
-- Terraform - For agility I ended up hardcoding a few things just to build my ec2 instance and VPC's quickly. I also brought the loadbalancer up and configured via the AWS console. As an improvement to the project i'd do the following;
+- Terraform - For agility I ended up hardcoding a few things just to build my ec2 instance and VPC's quickly. I also brought the loadbalancer up and configured via the AWS console. As an improvement to the project D'd do the following;
 
         1. Terraform everything from IAM, VPC, Loadbalancers, EC2 and probably ECS (more on that).
         2. In the state my Terraform is in, it's not maintainable I would have used Terragrunt to keep all my backend configs dry. Removing all the hardcoding and being able to experiment without disturbing my main enviorment.
