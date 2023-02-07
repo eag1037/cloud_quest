@@ -1,0 +1,11 @@
+FROM node:10
+
+# set environment variable
+ENV SECRET_WORD="TwelveFactor"
+# copy the quest-master directory into the new containerr
+COPY ./quest-master/ /
+#npm install
+RUN npm install
+# expose port 3000
+EXPOSE 3000:3000
+CMD ["npm","start"]
